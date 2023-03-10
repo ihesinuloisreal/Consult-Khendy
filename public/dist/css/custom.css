@@ -1,0 +1,43 @@
+.beta {
+    background-color: #f6f6f6;
+}
+
+.container-fluid{
+    background-color: #f6f6f6;
+}
+header{
+    background-color: #f6f6f6;
+}
+.b{
+    background-color: rgb(83, 80, 80);
+    display: inline-block;
+  border-radius: 100%;
+  padding: 0.3em 0.4em;
+}
+.h1-i{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    text-align: center;
+}
+.btn-primary{
+    background-color: #fa3e05;
+}
+.wi-5{
+    width: 80%;
+}
+.hi{
+    height: 120px;
+    width: 120px;
+
+}
+.dhi{
+    padding: 10%;
+}
+/* .f-c{
+    padding-left: 10%;
+} */
+/* .p-i{
+    text-decoration: none;
+    text-align: center;
+} */
+
